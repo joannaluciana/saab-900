@@ -1,0 +1,25 @@
+URL DESIGN
+
+GET /producent/ - > list
+POST /producent/ - > create
+GET /producent/:id/ - >retrive
+DELETE /producent/:id/ - >destroy
+
+GET /producent/:id/car
+
+GET /place/ - > list
+POST /place/ - > create
+GET /place/:id/ - >retrive
+PUT /place/:id/ - > update
+PATCH /place/:id/ - > partial update
+DELETE /place/:id/ - > destroy
+
+GET /plac/:id/usercar/
+
+GET /usercar/ - > list
+POST /usercar/ - > create
+GET /usercar/:id/ - >retrive
+PUT /usercar/:id/ - > update
+PATCH /usercar/:id/ - > partial update
+DELETE /usercar/:id/ - > destroy
+
